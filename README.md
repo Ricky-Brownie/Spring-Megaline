@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="Image Megaline" src="https://github.com/user-attachments/assets/e42bf578-ce2b-4e50-96fb-eba721c52e6e" />
 # Proyecto Megaline
 Analizo el comportamiento de los clientes de Megaline para comparar dos tarifas de prepago: Surf y Ultimate. Estudio los datos de 500 usuarios, incluyendo quiénes son, de dónde vienen, qué plan utilizan y cuántas llamadas y mensajes de texto realizaron durante 2018. A partir de estos datos, evalúo qué tarifa genera, en promedio, mayores ingresos y utilizo pruebas estadísticas para determinar qué plan aporta más dinero a la empresa.
 
